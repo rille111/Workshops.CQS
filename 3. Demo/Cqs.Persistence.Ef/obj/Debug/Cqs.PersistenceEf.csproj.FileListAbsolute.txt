@@ -1,0 +1,17 @@
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe.config
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.exe
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe.config
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\obj\Debug\Cqs.PersistenceEf.csprojResolveAssemblyReference.cache
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.exe
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe.config
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\obj\Debug\Cqs.PersistenceEf.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.exe
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.pdb

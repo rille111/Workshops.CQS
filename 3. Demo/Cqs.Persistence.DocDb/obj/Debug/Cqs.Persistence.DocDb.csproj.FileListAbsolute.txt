@@ -1,0 +1,18 @@
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.exe.config
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.exe
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.exe
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.csprojResolveAssemblyReference.cache
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.exe.config
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.exe
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.csprojResolveAssemblyReference.cache
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.exe
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.exe.config
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.exe
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\bin\Debug\Cqs.Persistence.DocDb.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.exe
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Persistence.DocDb\obj\Debug\Cqs.Persistence.DocDb.pdb

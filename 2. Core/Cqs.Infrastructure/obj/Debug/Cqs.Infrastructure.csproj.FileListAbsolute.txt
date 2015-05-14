@@ -1,0 +1,14 @@
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Infrastructure\bin\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Infrastructure\bin\Debug\Cqs.Infrastructure.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\bin\Debug\Cqs.Infrastructure.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\bin\Debug\Cqs.Infrastructure.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\bin\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\bin\Debug\Cqs.Infrastructure.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Infrastructure\obj\Debug\Cqs.Infrastructure.pdb

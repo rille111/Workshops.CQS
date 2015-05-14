@@ -1,0 +1,27 @@
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Persistence.RuntimeCache.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Persistence.RuntimeCache.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Domain.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Domain.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Infrastructure.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.csprojResolveAssemblyReference.cache
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Persistence.RuntimeCache.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Persistence.RuntimeCache.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Domain.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Infrastructure.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Domain.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Infrastructure.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Persistence.RuntimeCache.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Persistence.RuntimeCache.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Domain.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Domain.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\bin\Debug\Cqs.Infrastructure.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\2. Core\Cqs.Persistence.RuntimeCache\obj\Debug\Cqs.Persistence.RuntimeCache.pdb

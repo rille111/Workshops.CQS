@@ -1,0 +1,45 @@
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Console\bin\Debug\Cqs.Console.exe.config
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Console.exe.config
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Console.exe
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Console.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Domain.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Persistence.RuntimeCache.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\SimpleInjector.Diagnostics.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\SimpleInjector.dll
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Domain.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Infrastructure.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\Cqs.Persistence.RuntimeCache.pdb
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\SimpleInjector.xml
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\bin\Debug\SimpleInjector.Diagnostics.xml
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\obj\Debug\Cqs.Presentation.Console.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\obj\Debug\Cqs.Console.exe
+c:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Presentation.Console\obj\Debug\Cqs.Console.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Console.exe.config
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Console.exe
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Console.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Domain.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Infrastructure.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Persistence.RuntimeCache.dll
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Infrastructure.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Persistence.RuntimeCache.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Domain.pdb
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\SimpleInjector.xml
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\SimpleInjector.Diagnostics.xml
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\obj\Debug\Cqs.Presentation.Console.csprojResolveAssemblyReference.cache
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\obj\Debug\Cqs.Console.exe
+C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\obj\Debug\Cqs.Console.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Console.exe.config
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Console.exe
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Console.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Domain.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Infrastructure.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Persistence.RuntimeCache.dll
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Infrastructure.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Persistence.RuntimeCache.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\Cqs.Domain.pdb
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\SimpleInjector.xml
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\bin\Debug\SimpleInjector.Diagnostics.xml
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\obj\Debug\Cqs.Presentation.Console.csprojResolveAssemblyReference.cache
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\obj\Debug\Cqs.Console.exe
+c:\Users\TEMPRIROB\OneDrive\Dev - Projects\CqsReferenceArchitecture\3. Demo\Cqs.Presentation.Console\obj\Debug\Cqs.Console.pdb

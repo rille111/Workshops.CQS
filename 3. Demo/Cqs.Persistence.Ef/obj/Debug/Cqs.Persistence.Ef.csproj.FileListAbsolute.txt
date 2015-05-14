@@ -1,5 +1,0 @@
-C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe.config
-C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.exe
-C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\bin\Debug\Cqs.Persistence.Ef.pdb
-C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.exe
-C:\Users\TEMPRIROB\OneDrive\Private - Dev Labs\CqsReferenceArchitecture\Cqs.Persistence.Ef\obj\Debug\Cqs.Persistence.Ef.pdb

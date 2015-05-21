@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Domain", "3. Demo\Cqs.Domain\Cqs.Domain.csproj", "{AC8FD98A-CFD8-469C-9597-BBD25947B2F7}"
 EndProject
@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Persistence.RuntimeCach
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Demo.Tests", "3. Demo.Tests\Cqs.Demo.Tests\Cqs.Demo.Tests.csproj", "{F08D421A-54A3-42E7-B9AD-7AFEDCCC6A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Xamarin.Infrastructure", "2. Core\Cqs.Infrastructure\Cqs.Xamarin.Infrastructure.csproj", "{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Infrastructure.Xamarin", "2. Core\Cqs.Infrastructure\Cqs.Infrastructure.Xamarin.csproj", "{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

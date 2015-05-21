@@ -1,6 +1,8 @@
 ABOUT
 =====
-This my reference architecture put together with patterns & practices and ideas collected from various places.
+Source Code: https://github.com/rille111/Cqs  where the architecture and samples can be found.
+
+I put this reference architecture together with patterns & practices and ideas collected from various places.
 The architecture is aiming at having as much shared code as is reasonable in a structured, clean, SOLID way - using CQS (Command Query Separation).
 
 I want to promote a ground for stable and platform-agnostic development with:

@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Persistence.RuntimeCach
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Demo.Tests", "3. Demo.Tests\Cqs.Demo.Tests\Cqs.Demo.Tests.csproj", "{F08D421A-54A3-42E7-B9AD-7AFEDCCC6A2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cqs.Xamarin.Infrastructure", "2. Core\Cqs.Infrastructure\Cqs.Xamarin.Infrastructure.csproj", "{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F08D421A-54A3-42E7-B9AD-7AFEDCCC6A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F08D421A-54A3-42E7-B9AD-7AFEDCCC6A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F08D421A-54A3-42E7-B9AD-7AFEDCCC6A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,5 +81,6 @@ Global
 		{09326D5B-DF06-4AFA-BE00-9F169AD862B6} = {BC04370E-28B5-40D6-8279-84031A53282D}
 		{3DF0FFC4-04FE-4C4B-923E-CC35C4B3DE00} = {BC04370E-28B5-40D6-8279-84031A53282D}
 		{F08D421A-54A3-42E7-B9AD-7AFEDCCC6A2C} = {316349FA-5E14-4127-9330-25334AF767C8}
+		{D47A7372-4121-41A2-8F32-8AA7D6CF1EB8} = {BC04370E-28B5-40D6-8279-84031A53282D}
 	EndGlobalSection
 EndGlobal

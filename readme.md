@@ -33,9 +33,9 @@ INSPIRATION
 
 IMPLEMENTED FEATURES
 --------------------
-* Cross cutting concerns - Stuff that affect the entire application such as logging, security etc.
-	* This is implemented in the solution as Decorators. Decorators can wrap anything and do logging etc.
-	* It is also stuff that is held static and application wide. For example "HttpContext.Current"
+* Cross cutting concerns - Things that affect the entire application such as logging, security etc.
+	* This is implemented in the solution as Decorators. Decorators wrap commands & queries and do logging etc.
+	* It can also signify things that are commonly used across the application, for example "ambient contexts" such as HttpContext 
 * QueryProcessor, CommandProcessor: With generics-magic we can invoke Commands/Queries and automagically find their handlers.
 * Handlers are now all called async giving you great performance power, and enables built-in "Chain Of Command" with Task Continuations!
 * Simple but effective Message Bus - see Messenger.cs. Giving you a powerful PubSub mechanism -> Enables "Loose Coupling"

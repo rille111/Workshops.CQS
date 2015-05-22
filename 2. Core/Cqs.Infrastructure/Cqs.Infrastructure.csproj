@@ -36,6 +36,7 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandQueryProcessors.cs" />
     <Compile Include="Decorators\CommandHandledPubSubDecorator.cs" />
     <Compile Include="Decorators\QueryHandledPubSubDecorator.cs" />
     <Compile Include="Decorators\LoggingCommandHandlerDecorator.cs" />

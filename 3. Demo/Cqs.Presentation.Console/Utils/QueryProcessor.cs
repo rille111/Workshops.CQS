@@ -14,7 +14,7 @@ namespace Cqs.Console.Utils
     /// </remarks>
     sealed class QueryProcessor : IQueryProcessor
     {
-        public Task<TResult> Handle<TResult>(IQuery<TResult> query)
+        public async Task<TResult> Handle<TResult>(IQuery<TResult> query)
         {
             var handlerType = typeof(IQueryHandler<,>)
                 .MakeGenericType(query.GetType(), typeof(TResult));
@@ -22,7 +22,7 @@ namespace Cqs.Console.Utils
             dynamic handler = IoC.ThisContainer.GetInstance(handlerType);
             
             // If you change the method name from 'Handle' - this method will crash.
-            return handler.Handle((dynamic)query);
+            return await handler.Handle((dynamic)query);
         }
     }
 }

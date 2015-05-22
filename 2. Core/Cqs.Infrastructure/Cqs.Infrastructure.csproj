@@ -42,6 +42,7 @@
     <Compile Include="Decorators\LoggingQueryHandlerDecorator.cs" />
     <Compile Include="ICommand.cs" />
     <Compile Include="ICommandProcessor.cs" />
+    <Compile Include="IContainerAdapter.cs" />
     <Compile Include="IEntity.cs" />
     <Compile Include="ILogger.cs" />
     <Compile Include="IQuery.cs" />
